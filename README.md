@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yamada_michel27)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yamada-michel27)
