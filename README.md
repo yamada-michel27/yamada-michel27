@@ -1,12 +1,12 @@
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yamada-michel27" />
 
 
-
+<br />
 
 
 ## 🛠️ Tech Stack
 
-### Core Skills:
+### Main Skills:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,ts,js,docker,postgres,mongodb,html,css,nodejs,react,threejs" />
