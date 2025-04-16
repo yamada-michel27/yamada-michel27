@@ -2,6 +2,9 @@
 
 <div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yamada-michel27" />
+</div>
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yamada-michel27&show_icons=true&locale=en&alt="ovi" height="225"  width="410" /></p>
 </div>
 
