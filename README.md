@@ -65,21 +65,20 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS Databases (RDS / DynamoDB)">
-      <br/>RDS / DynamoDB
-    </td>
-  </tr>
-</table>
+<p align="center" style="margin:0 20px; display:inline-block;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="60" />
+  </a>
+</p>
+
+<p align="center" style="margin:0 20px; display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS Databases (RDS / DynamoDB)" />
+  <br>
+  RDS / DynamoDB
+</p>
 
 </div>
+
 
 
 <br><br>
