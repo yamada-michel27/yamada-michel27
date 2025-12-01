@@ -7,7 +7,8 @@
   <br>
   <b>Oshi:</b> Ado 🎧  
   <br>
-  <b>Motto:</b> <i>Life does not have to be perfect</i>
+  <b>Motto:</b> <i>Life does not have to be perfect to be wonderful</i>
+  
 </p>
 
 <br>
