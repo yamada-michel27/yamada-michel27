@@ -2,12 +2,10 @@
 
 <h1>I'm YamadaMichel27</h1>
 
-<br>
-
 <p>
-  <b>Hobbies:</b> Deep Work,Teck Event, Traveling (Domestic & Overseas), Music
+  <b>Hobbies:</b> Deep Work, Tech Event, Traveling (Domestic & Overseas), Music  
   <br>
-  <b>Oshi:</b> Ado 🎧
+  <b>Oshi:</b> Ado 🎧  
   <br>
   <b>Motto:</b> <i>Life does not have to be perfect</i>
 </p>
@@ -16,38 +14,34 @@
 
 <h2>📘 Internship Diary</h2>
 
-<a href="https://note.com/optfit/n/n0fe4946f4c54">
-  2025/10Internship Diary (OptFit)
-</a>
+<div align="center">
+  <a href="https://note.com/optfit/n/n0fe4946f4c54">
+    2025/10 Internship Diary (OptFit)
+  </a>
+</div>
 
-<br>
+<br><br>
 
----
-<!-- GitHub Stats -->
 <h2>⭐️ GitHub Stats</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img 
-    src="https://github-readme-stats-omega-five-89.vercel.app/api?username=yamada-michel27&show_icons=true&locale=en"
-    alt="Michel's GitHub stats"
-  />
-</a>
 
-
-<br>
-
-<!-- Summary Card -->
-<!-- <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yamada-michel27"
-  alt="Michel's Languages"
-/> -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats-omega-five-89.vercel.app/api?username=yamada-michel27&show_icons=true&locale=en"
+      alt="Michel's GitHub stats"
+    />
+  </a>
+</div>
 
 </div>
 
+---
 
-# <div align="center">🛠️ Tech Stack</div>
+<h2 align="center">🛠️ Tech Stack</h2>
 
+---
 
-## <div align="center">💻 Language Skills</div>
+<h3 align="center">💻 Language Skills</h3>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -57,7 +51,7 @@
 
 ---
 
-## <div align="center">📚 Framework & Library Skills</div>
+<h3 align="center">📚 Framework & Library Skills</h3>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -67,23 +61,28 @@
 
 ---
 
-## <div align="center">🗄️ Database Skills</div>
+<h3 align="center">🗄️ Database Skills</h3>
 
 <div align="center">
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-  </a>
-  
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+    </a>
+  </div>
+
   <br/>
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS Databases (RDS / DynamoDB)">
-  <p>RDS / DynamoDB</p>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS Databases (RDS / DynamoDB)">
+    <p>RDS / DynamoDB</p>
+  </div>
 
 </div>
 
 ---
 
-## <div align="center">☁️ Infra Skills</div>
+<h3 align="center">☁️ Infra Skills</h3>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -93,7 +92,7 @@
 
 ---
 
-## <div align="center">🏗️ IaC Skills</div>
+<h3 align="center">🏗️ IaC Skills</h3>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -103,7 +102,7 @@
 
 ---
 
-## <div align="center">🔧 Other Skills / Tools</div>
+<h3 align="center">🔧 Other Skills / Tools</h3>
 
 <div align="center">
   <a href="https://skillicons.dev">
