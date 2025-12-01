@@ -1,13 +1,15 @@
 <div align="center">
 
-<h1>Hi, I'm YamadaMichel27</h1>
+<h1>I'm YamadaMichel27</h1>
 
 <br>
 
 <p>
-  <b>Hobbies:</b> Deep Work, Traveling (Domestic & Overseas), Music
+  <b>Hobbies:</b> Deep Work,Teck Event, Traveling (Domestic & Overseas), Music
   <br>
   <b>Oshi:</b> Ado 🎧
+  <br>
+  <b>Motto:</b> <i>Life does not have to be perfect</i>
 </p>
 
 <br>
@@ -18,15 +20,18 @@
   2025/10Internship Diary (OptFit)
 </a>
 
-<br><br>
+<br>
 
+---
 <!-- GitHub Stats -->
+<h2>⭐️ GitHub Stats</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
     src="https://github-readme-stats-omega-five-89.vercel.app/api?username=yamada-michel27&show_icons=true&locale=en"
     alt="Michel's GitHub stats"
   />
 </a>
+
 
 <br>
 
@@ -38,7 +43,6 @@
 
 </div>
 
----
 
 # <div align="center">🛠️ Tech Stack</div>
 
