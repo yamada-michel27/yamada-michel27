@@ -39,8 +39,6 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<br>
-
 <h3 align="center">💻 Language Skills</h3>
 
 <div align="center">
