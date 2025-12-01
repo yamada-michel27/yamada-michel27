@@ -65,38 +65,30 @@
 
 <div align="center">
 
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-    </a>
-  </div>
-
-  <br/>
-
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS Databases (RDS / DynamoDB)">
-    <p>RDS / DynamoDB</p>
-  </div>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS Databases (RDS / DynamoDB)">
+      <br/>RDS / DynamoDB
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<br><br>
-
-<h3 align="center">☁️ Infra Skills</h3>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws" />
-  </a>
-</div>
 
 <br><br>
 
-<h3 align="center">🏗️ IaC Skills</h3>
+<h3 align="center">☁️ Infra & IaC Skills</h3>
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform" />
+    <img src="https://skillicons.dev/icons?i=aws,terraform" />
   </a>
 </div>
 
