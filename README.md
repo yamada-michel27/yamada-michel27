@@ -49,7 +49,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 <h3 align="center">📚 Framework & Library Skills</h3>
 
@@ -59,7 +59,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 <h3 align="center">🗄️ Database Skills</h3>
 
@@ -79,9 +79,7 @@
 
 </div>
 
-
-
-<br><br>
+<br>
 
 <h3 align="center">☁️ Infra & IaC Skills</h3>
 
@@ -91,7 +89,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 <h3 align="center">🔧 Other Skills / Tools</h3>
 
@@ -100,5 +98,3 @@
     <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,nodejs,unity,raspberrypi,postman,pnpm,pycharm" />
   </a>
 </div>
-
-
