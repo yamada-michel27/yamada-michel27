@@ -1,8 +1,13 @@
 <h1 align="left">👋 Hi, I'm YamadaMichel27.co.jp</h1>
 
 <div align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yamada-michel27" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yamada-michel27&show_icons=true&locale=en&alt="ovi" height="225"  width="410" /></p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yamada-michel27" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=yamada-michel27&show_icons=true&locale=en"
+    alt="GitHub stats"
+    height="225"
+    width="410"
+  />
 </div>
 
 ###
