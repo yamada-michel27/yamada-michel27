@@ -35,11 +35,11 @@
 
 </div>
 
----
+<hr>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
----
+<hr>
 
 <h3 align="center">💻 Language Skills</h3>
 
@@ -49,7 +49,7 @@
   </a>
 </div>
 
----
+<hr>
 
 <h3 align="center">📚 Framework & Library Skills</h3>
 
@@ -59,7 +59,7 @@
   </a>
 </div>
 
----
+<hr>
 
 <h3 align="center">🗄️ Database Skills</h3>
 
@@ -80,7 +80,7 @@
 
 </div>
 
----
+<hr>
 
 <h3 align="center">☁️ Infra Skills</h3>
 
@@ -90,7 +90,7 @@
   </a>
 </div>
 
----
+<hr>
 
 <h3 align="center">🏗️ IaC Skills</h3>
 
@@ -100,7 +100,7 @@
   </a>
 </div>
 
----
+<hr>
 
 <h3 align="center">🔧 Other Skills / Tools</h3>
 
@@ -109,3 +109,5 @@
     <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,nodejs,unity,raspberrypi,postman,pnpm,pycharm" />
   </a>
 </div>
+
+<hr>
