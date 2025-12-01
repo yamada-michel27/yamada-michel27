@@ -35,11 +35,11 @@
 
 </div>
 
-<hr>
+
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<hr>
+<br>
 
 <h3 align="center">💻 Language Skills</h3>
 
@@ -49,7 +49,7 @@
   </a>
 </div>
 
-<hr>
+<br><br>
 
 <h3 align="center">📚 Framework & Library Skills</h3>
 
@@ -59,7 +59,7 @@
   </a>
 </div>
 
-<hr>
+<br><br>
 
 <h3 align="center">🗄️ Database Skills</h3>
 
@@ -80,7 +80,7 @@
 
 </div>
 
-<hr>
+<br><br>
 
 <h3 align="center">☁️ Infra Skills</h3>
 
@@ -90,7 +90,7 @@
   </a>
 </div>
 
-<hr>
+<br><br>
 
 <h3 align="center">🏗️ IaC Skills</h3>
 
@@ -100,7 +100,7 @@
   </a>
 </div>
 
-<hr>
+<br><br>
 
 <h3 align="center">🔧 Other Skills / Tools</h3>
 
@@ -110,4 +110,4 @@
   </a>
 </div>
 
-<hr>
+
