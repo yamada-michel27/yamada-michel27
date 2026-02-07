@@ -15,15 +15,37 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          persist-credentials: true
           fetch-depth: 0
 
+      # 生成（pushはさせない）
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: yamada-michel27
-          BRANCH_NAME: main
           UTC_OFFSET: 9
-          AUTO_PUSH: true
+          # AUTO_PUSH は使わない（ここが不安定要因）
+          AUTO_PUSH: false
+
+      # 生成物を commit & push（ここで確実に main に入れる）
+      - name: Commit & push generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 生成物が無い/変化が無い場合は何もしない
+          if [ ! -d "profile-summary-card-output" ]; then
+            echo "profile-summary-card-output not found"
+            exit 1
+          fi
+
+          git add profile-summary-card-output
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "chore: update profile summary cards"
+          git push origin HEAD:main
