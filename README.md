@@ -3,12 +3,12 @@
 <h1>I'm YamadaMichel27</h1>
 
 <p>
-  <b>Hobbies:</b> Deep Work, Tech Event, Traveling (Domestic & Overseas), Music  
+  <b>Hobbies:</b> Deep Work, Tech Event, Traveling (Domestic & Overseas), Music
   <br>
-  <b>Oshi:</b> Ado 🎧  
+  <b>Oshi:</b> Ado 🎧
   <br>
   <b>Motto:</b> <i>Life does not have to be perfect to be wonderful</i>
-  
+
 </p>
 
 <br>
@@ -27,16 +27,18 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
+    <img
       src="https://github-readme-stats-omega-five-89.vercel.app/api?username=yamada-michel27&show_icons=true&locale=en"
       alt="Michel's GitHub stats"
+    />
+    <img
+      src="https://github-readme-stats-omega-five-89.vercel.app/api/top-langs/?username=yamada-michel27&layout=compact&langs_count=8&count_private=true"
+      alt="Top Languages"
     />
   </a>
 </div>
 
 </div>
-
-
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
