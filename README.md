@@ -36,9 +36,10 @@
 <!-- 1段目：Languages -->
 <div align="center">
   <img
-  src="https://github-readme-stats-omega-five-89.vercel.app/api/top-langs/?username=yamada-michel27&layout=normal&langs_count=8&count_private=true&bg_color=ffffff&title_color=111111&text_color=333333&border_color=eaeaea"
-  alt="Top Languages"
-/>
+    src="https://github-readme-stats-omega-five-89.vercel.app/api/top-langs/?username=yamada-michel27&layout=normal&langs_count=8&count_private=true&bg_color=ffffff&title_color=111111&text_color=333333&border_color=eaeaea"
+    alt="Most Used Languages"
+    width="100%"
+  />
 </div>
 
 <br />
