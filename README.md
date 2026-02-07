@@ -24,7 +24,7 @@
 <br><br>
 
 <div align="center">
-  <img src="./snk.svg" alt="Snake animation" />
+  <img src="dist/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 <h2>⭐️ GitHub Stats</h2>
