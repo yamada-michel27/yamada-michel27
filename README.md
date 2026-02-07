@@ -11,7 +11,36 @@
 
 </p>
 
-<br>
+<br><br>
+
+<div align="center">
+  <img src="dist/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+<h2>⭐️ GitHub Stats</h2>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats-omega-five-89.vercel.app/api?username=yamada-michel27&show_icons=true&locale=en"
+      alt="Michel's GitHub stats"
+    />
+    <img
+      src="https://github-readme-stats-omega-five-89.vercel.app/api/top-langs/?username=yamada-michel27&layout=compact&langs_count=8&count_private=true"
+      alt="Top Languages"
+    />
+  </a>
+</div>
+
+</div>
+
+<h2 align="center">🧩 Summary Cards</h2>
+
+<div align="center">
+  <img src="profile-summary-card-output/gruvbox/1-repos-per-language.svg" alt="Repos per language" />
+  <img src="profile-summary-card-output/gruvbox/2-most-commit-language.svg" alt="Most commit language" />
+  <img src="profile-summary-card-output/gruvbox/4-productive-time.svg" alt="Productive time" />
+</div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -73,7 +102,7 @@
   </a>
 </div>
 
-<br>
+<br><br>
 
 <h2>📘 Internship Diary</h2>
 
