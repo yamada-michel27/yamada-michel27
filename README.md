@@ -43,11 +43,9 @@
 <h2 align="center">🧩 Summary Cards</h2>
 
 <div align="center">
-  <div align="center">
-  <img src="profile-summary-card-output/repos-per-language.svg" alt="Repos per language" />
-  <img src="profile-summary-card-output/most-commit-language.svg" alt="Most commit language" />
-  <img src="profile-summary-card-output/productive-time.svg" alt="Productive time" />
-</div>
+  <img src="profile-summary-card-output/gruvbox/1-repos-per-language.svg" alt="Repos per language" />
+  <img src="profile-summary-card-output/gruvbox/2-most-commit-language.svg" alt="Most commit language" />
+  <img src="profile-summary-card-output/gruvbox/4-productive-time.svg" alt="Productive time" />
 </div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
