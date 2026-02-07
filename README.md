@@ -13,8 +13,6 @@
 
 <br>
 
-<h2>📘 Internship Diary</h2>
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h3 align="center">💻 Language Skills</h3>
@@ -76,6 +74,8 @@
 </div>
 
 <br>
+
+<h2>📘 Internship Diary</h2>
 
 <div align="center">
   <a href="https://note.com/optfit/n/n0fe4946f4c54">
