@@ -2,7 +2,7 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 毎日 09:00 JST (UTC 00:00)
+    - cron: "0 0 * * *" # 毎日 09:00 JST
   workflow_dispatch:
 
 permissions:
@@ -12,6 +12,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
@@ -20,5 +26,4 @@ jobs:
           USERNAME: yamada-michel27
           BRANCH_NAME: main
           UTC_OFFSET: 9
-          THEME: gruvbox
-          OUTPUT_DIR: profile-summary-card-output
+          AUTO_PUSH: true
