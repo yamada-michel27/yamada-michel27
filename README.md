@@ -23,6 +23,10 @@
 
 <br><br>
 
+<div align="center">
+  <img src="./snk.svg" alt="Snake animation" />
+</div>
+
 <h2>⭐️ GitHub Stats</h2>
 
 <div align="center">
