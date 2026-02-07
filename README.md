@@ -15,45 +15,6 @@
 
 <h2>📘 Internship Diary</h2>
 
-<div align="center">
-  <a href="https://note.com/optfit/n/n0fe4946f4c54">
-    2025/10 Internship Diary (OptFit)
-  </a>
-</div>
-
-<br><br>
-
-<!-- 🐍 Snake -->
-<div align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
-<br />
-
-<!-- 📈 Unified Section -->
-<h2 align="center">📈 Coding Snapshot</h2>
-
-<!-- 1段目：Languages -->
-<div align="center">
-  <img
-    src="https://github-readme-stats-omega-five-89.vercel.app/api/top-langs/?username=yamada-michel27&layout=compact&langs_count=8&count_private=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=333333&border_color=eaeaea"
-    alt="Top Languages"
-    height="165"
-  />
-</div>
-
-<br />
-
-<!-- 2段目：Activity cards（白系） -->
-<div align="center">
-  <img src="profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per language" />
-  <img src="profile-summary-card-output/default/2-most-commit-language.svg" alt="Most commit language" />
-</div>
-
-<div align="center">
-  <img src="profile-summary-card-output/default/4-productive-time.svg" alt="Productive time" />
-</div>
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h3 align="center">💻 Language Skills</h3>
@@ -115,3 +76,9 @@
 </div>
 
 <br>
+
+<div align="center">
+  <a href="https://note.com/optfit/n/n0fe4946f4c54">
+    2025/10 Internship Diary (OptFit)
+  </a>
+</div>
