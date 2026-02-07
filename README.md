@@ -21,7 +21,7 @@
 <h2>📈 Coding Snapshot</h2>
 
 <img
-  src="https://github-readme-stats-omega-five-89.vercel.app/api/top-langs/?username=yamada-michel27&layout=compactl&langs_count=10&count_private=true&hide_title=true&bg_color=ffffff&text_color=333333&border_color=eaeaea"
+  src="https://github-readme-stats-omega-five-89.vercel.app/api/top-langs/?username=yamada-michel27&layout=compact&langs_count=10&count_private=true&hide_title=true&bg_color=ffffff&title_color=111111&text_color=333333&border_color=eaeaea"
   alt="Top Languages"
   width="100%"
 />
